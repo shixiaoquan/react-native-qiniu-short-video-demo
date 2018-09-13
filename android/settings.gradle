@@ -1,0 +1,3 @@
+rootProject.name = 'qiniudemo'
+
+include ':app'
